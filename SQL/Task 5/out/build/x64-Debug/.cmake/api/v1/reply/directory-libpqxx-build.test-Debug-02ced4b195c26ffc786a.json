@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "libpqxx-build/test",
+		"source" : "C:/Users/kuqrus/Desktop/Homework/libpqxx-7.7.5/test"
+	}
+}

@@ -1,0 +1,17 @@
+# ninja log v5
+35	839	6989749967961253	CMakeFiles/main.dir/Homework_6-3.cpp.obj	21e6bfec37a36baf
+7	765	6989749967181081	CMakeFiles/lib.dir/print_info.cpp.obj	d8c0ed14b00bed63
+16	777	6989749967311114	CMakeFiles/lib.dir/rectangle.cpp.obj	cfd174d00f16cd9a
+4	781	6989749967301123	CMakeFiles/lib.dir/isosceles_triangle.cpp.obj	9ad3595a2eea5472
+0	785	6989749967401135	CMakeFiles/lib.dir/equilateral_triangle.cpp.obj	1525dc40676b7144
+26	786	6989749967381132	CMakeFiles/lib.dir/square.cpp.obj	8a3cff5585a40c14
+13	786	6989749967381132	CMakeFiles/lib.dir/parallelogram.cpp.obj	1b49d972c6eb9f11
+857	1186	6989749970958528	lib.lib	b78aa213dbe7ee3d
+19	793	6989749967501161	CMakeFiles/lib.dir/right_triangle.cpp.obj	6d88cb83b9d418ee
+10	795	6989749967511160	CMakeFiles/lib.dir/quad.cpp.obj	1fd728b525bf3d92
+23	820	6989749967761222	CMakeFiles/lib.dir/shape.cpp.obj	9c77b523ea4a08a4
+29	827	6989749967831228	CMakeFiles/lib.dir/rhomb.cpp.obj	3d00fe72ca2d07cb
+32	857	6989749968151296	CMakeFiles/lib.dir/triangle.cpp.obj	beba61b4d743c15a
+1186	1584	6989749974744386	main.exe	4980d7c23be093c7
+0	391	6989750400947438	CMakeFiles/figures.dir/Homework_6-3.cpp.obj	428e91e052304e
+391	977	6989750404170062	figures.exe	899ebc70a43515a1

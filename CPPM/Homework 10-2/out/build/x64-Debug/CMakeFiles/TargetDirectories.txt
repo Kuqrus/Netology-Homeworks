@@ -1,0 +1,4 @@
+C:/Users/kuqrus/Desktop/Homework/Homework 10-2/out/build/x64-Debug/CMakeFiles/lib.dir
+C:/Users/kuqrus/Desktop/Homework/Homework 10-2/out/build/x64-Debug/CMakeFiles/figures.dir
+C:/Users/kuqrus/Desktop/Homework/Homework 10-2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kuqrus/Desktop/Homework/Homework 10-2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+C:/Users/kuqrus/Desktop/Homework/Homework 11-3/out/build/x64-Debug/CMakeFiles/dynamicLib.dir
+C:/Users/kuqrus/Desktop/Homework/Homework 11-3/out/build/x64-Debug/CMakeFiles/leaverStart.dir
+C:/Users/kuqrus/Desktop/Homework/Homework 11-3/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kuqrus/Desktop/Homework/Homework 11-3/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
